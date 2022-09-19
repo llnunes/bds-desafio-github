@@ -1,0 +1,38 @@
+.home-container {
+    padding: 40px;
+}
+
+.start-button {
+    color: #fff;
+}
+
+.home-container h1 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    /* identical to box height, or 133% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+
+    color: #000000;
+}
+
+.home-container h3 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 40px;
+    /* identical to box height, or 167% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+
+    color: #7e7e7e;
+    margin-bottom: 35px;
+}
